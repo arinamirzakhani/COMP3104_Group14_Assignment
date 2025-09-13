@@ -1,0 +1,15 @@
+name: CI
+on:
+  push:
+  pull_request:
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Show branch and files
+        run: |
+          echo "Branch: ${{ github.ref }}"
+          ls -la
+      - name: Basic health check
+        run: echo "CI is running ✅"
