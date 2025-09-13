@@ -1,0 +1,27 @@
+Student ID: 101418340
+File: 101418340_sdlc.txt
+Title: Why DevOps is important in the SDLC
+Date: 2025-09-13
+
+DevOps integrates development and operations so software moves through the
+SDLC faster and with fewer defects. The key is automation plus rapid feedback.
+
+Where it fits in each SDLC phase:
+- Planning: shared backlog, clear definitions of done, and measurable goals.
+- Development: small, frequent commits on isolated branches; peer review.
+- Testing: Continuous Integration runs tests on every push to catch issues
+  early (“shift-left” quality).
+- Integration/Release: Continuous Delivery packages artifacts consistently,
+  reducing “works on my machine” problems.
+- Deployment: automated releases with repeatable scripts or workflows.
+- Operations/Maintenance: monitoring, logs, alerts, and post-incident learning
+  create tight feedback loops for the next iteration.
+
+Benefits to the team:
+- Faster lead time from commit to deploy
+- Lower change-failure rate and faster recovery (MTTR)
+- Reliable, reproducible environments (often via scripts/IaC/containers)
+- Transparency: everyone sees build status, test results, and history
+
+Conclusion: DevOps turns the SDLC into a continuous cycle—plan, build, test,
+release, observe, learn—so we deliver value quickly and safely.
