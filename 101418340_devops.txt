@@ -12,6 +12,10 @@ Course focus:
   write simple YAML workflows, and read pipeline logs.
 - Project hygiene: writing a good README, using a PR template, and keeping
   changes small, traceable, and reversible.
+Commit & PR guidelines:
+- Small, single-purpose commits with clear messages
+- Open PRs to main; wait for green checks
+- Resolve conflicts locally; never commit to main directly
 
 Tools & concepts practiced:
 - Git, GitHub, Issues/PRs, Actions workflows
