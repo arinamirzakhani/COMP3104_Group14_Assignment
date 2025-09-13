@@ -1,0 +1,31 @@
+Student ID: 101418340
+File: 101418340_devops.txt
+Title: COMP3104 – DevOps (Course Summary)
+Date: 2025-09-13
+
+Course focus:
+- Version control with Git and GitHub: repositories, branching, merges,
+  pull requests, and code reviews.
+- Team workflow: branch naming conventions, commit hygiene, resolving
+  conflicts, and protecting the main branch.
+- CI/CD fundamentals: automate build/test using GitHub Actions (or Travis CI),
+  write simple YAML workflows, and read pipeline logs.
+- Project hygiene: writing a good README, using a PR template, and keeping
+  changes small, traceable, and reversible.
+Commit & PR guidelines:
+- Small, single-purpose commits with clear messages
+- Open PRs to main; wait for green checks
+- Resolve conflicts locally; never commit to main directly
+
+Tools & concepts practiced:
+- Git, GitHub, Issues/PRs, Actions workflows
+- Continuous Integration (run tests on every push/PR)
+- Continuous Delivery (keep main deploy-ready)
+- Basic scripting/automation and status badges
+
+Course objectives (my checklist):
+- Create a public repo that follows the required naming format.
+- Work on a personal branch named STUDENTID-Name.
+- Make 10+ meaningful commits with clear messages.
+- Configure a CI workflow that runs on push/PR and passes.
+- Merge to main via PR after review and green checks.
