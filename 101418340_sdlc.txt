@@ -23,10 +23,13 @@ Benefits to the team:
 - Reliable, reproducible environments (often via scripts/IaC/containers)
 - Transparency: everyone sees build status, test results, and history
 
-Tools & concepts:
-- Git, GitHub, Issues, PR templates
-- Actions workflows (YAML)
-- Status checks and badges
+How it fits each phase:
+- Plan: shared goals and definitions of done
+- Build: short-lived branches; reviews
+- Test: CI runs tests on every push (shift-left)
+- Release: predictable packaging and versioning
+- Deploy: automated, repeatable releases
+- Operate: monitoring, logs, learning loops
 
 Conclusion: DevOps turns the SDLC into a continuous cycle—plan, build, test,
 release, observe, learn—so we deliver value quickly and safely.
