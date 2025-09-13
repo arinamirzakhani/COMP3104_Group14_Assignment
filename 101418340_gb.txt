@@ -3,6 +3,11 @@ File: 101418340_gb.txt
 Title: George Brown College — What it is and why it matters to me
 Date: 2025-09-13
 
+Campuses:
+- St. James — business & hospitality
+- Casa Loma — technology & trades
+- Waterfront — health sciences
+
 George Brown College (GBC) is a public college in Toronto with three main
 campuses: St. James (business & hospitality), Casa Loma (technology & trades),
 and Waterfront (health sciences). Classes combine theory with labs, projects,
