@@ -6,7 +6,7 @@
 
 \- Leader: Arina Mirzakhani (101418340) – \[GitHub](https://github.com/arinamirzakhani)
 
-\- Member 2: <Name> (<ID>) – \[GitHub](https://github.com/<user>)
+\- Member 2: Vincente Sequeira (101484793) – \[GitHub](https://github.com/VirtualVince)
 
 \- Member 3: <Name> (<ID>) – \[GitHub](https://github.com/<user>)
 
