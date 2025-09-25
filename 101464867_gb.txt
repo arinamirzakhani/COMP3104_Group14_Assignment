@@ -1,0 +1,46 @@
+Student ID: 101464867
+Student Name: Lakshay Dhawan
+File: 101464867_gb.txt
+Title: COMP3104 – George Brown Colloge Information
+Date: 2025-09-25
+
+
+George Brown College — Overview
+
+Type & Location:
+    - George Brown College is a public college of applied arts and technology located in Toronto, Ontario, Canada. 
+
+
+History & Name: 
+
+    - The college was established in 1967, absorbing predecessor institutes (such as the Provincial Institute of Trades) including campuses around Kensington and Casa Loma. 
+
+    - It is named after George Brown (the 19th-century politician and newspaper founder). 
+
+Enrollment & Programs:
+
+    - It offers over 170 full-time programs across fields such as arts & design, business, health sciences, hospitality & culinary arts, construction & engineering, and information technology. 
+
+    - There is also a robust continuing education arm, online programs, and joint degree partnerships with universities. 
+
+    -Its programs emphasize applied learning, work-integrated learning, and real-world projects, leveraging its downtown Toronto location and industry connections. 
+
+Campuses:
+
+    George Brown’s main campuses are all located in downtown Toronto and include:
+
+        - Casa Loma Campus 
+        - St. James Campus 
+        - Waterfront Campus 
+
+    - The campuses are well served by public transit and bike lanes.
+
+Casa Loma Campus (George Brown):
+    
+    - Casa Loma campus is one of the original and core campuses, with facilities geared toward construction, engineering technologies, and other technical disciplines.
+
+    - Casa Loma hosts many of the engineering and construction-oriented programs, trades, and technical technologies. Its lab facilities, workshops, and specialized infrastructure make it well-suited for hands-on, applied courses. (This aligns with George Brown’s overall emphasis on applied, practical learning.)
+
+    - Students in programs that require heavy lab / workshop use often attend classes at Casa Loma.
+
+    
