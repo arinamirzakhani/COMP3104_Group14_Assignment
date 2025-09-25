@@ -1,0 +1,44 @@
+Student ID: 101464867
+Student Name: Lakshay Dhawan
+File: 101464867_devops.txt
+Title: COMP3104 – DevOps (Course Summary)
+Date: 2025-09-25
+
+
+In this course we learn about the procedures, protocols and best practices that a DevOps engineer brings to the workplace to increase productivity. We will also analyze and evaluate the various operation implementations which are available using the industry standard toolkit. We will create solutions to complex business problems by adhering to the reponsibilities of DevOps engineering.
+
+The outcomes of the course which we will be able to demoscrate by the end of this course are the following:
+
+    - Apply effective DevOps techniques and industry-standard tools for integration, deployment, and lifecycle management.
+
+    - Perform practical hands-on lab work in DevOps.
+
+    - Collaborate effectively with IT teams by understanding engineer roles and responsibilities.
+
+    - Use version control workflows for safe and low-risk software releases.
+
+    - Make informed architectural decisions, comparing monolithic and microservice models.
+
+    - Monitor code quality and manage application deployments.
+
+    - Implement Infrastructure as Code and leverage cloud computing benefits.
+
+    - Understand the DevOps engineer’s role in the broader market space.
+
+Required Textbook:
+
+    - Exploring DevOps: An Introduction for Beginners (ISBN: 978-1-927041-22-2)
+
+Recommended Resources:
+
+    - GitHub – version control and collaboration.
+
+    - Travis CI – continuous integration service.
+
+    - Docker – containerization platform.
+
+    - Kubernetes – container orchestration.
+
+    - SonarQube – code quality and security analysis.
+
+👉 These resources support practical learning in source control, CI/CD, containerization, orchestration, and code quality monitoring.
