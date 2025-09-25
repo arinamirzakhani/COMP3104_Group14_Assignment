@@ -8,7 +8,7 @@
 
 \- Member 2: Vincente Sequeira (101484793) – \[GitHub](https://github.com/VirtualVince)
 
-\- Member 3: <Name> (<ID>) – \[GitHub](https://github.com/<user>)
+\- Member 3: Lakshay Dhawan (101464867) – \[GitHub](https://github.com/imlakshayd)
 
 \- Member 4: <Name> (<ID>) – \[GitHub](https://github.com/<user>)
 
