@@ -1,0 +1,54 @@
+Student ID: 101464867
+Student Name: Lakshay Dhawan
+File: 101464867_sdlc.txt
+Title: COMP3104 – DevOps' impact on the SDLC
+Date: 2025-09-25
+
+DevOps has an enormous impact on the Software Development Lifecycle (SDLC). It integrates development and operations to accelerate the delivery of high-quality software.
+
+The following are ways DevOps accelerates and impacts the SDLC, showing its importance:
+
+    Bridging Development and Operations:
+
+        - Normally, software developers would write the code while a different team dealt with operations and infrastructure. This separation led to roadblocks and bottlenecks due to the interdependency of each team.
+        - DevOps integrates both roles so engineers share responsibility, which allows for faster collaboration and fewer miscommunications.
+
+    Faster Delivery & Time-to-Market:
+
+        - DevOps engineers use practices such as Continuous Integration (CI) and Continuous Deployment (CD) to automate, build, test, and release software.
+        - This allows them to ship new features, bug fixes, and updates much faster, meeting customer and market needs more quickly.
+
+    Improved Software Quality:
+
+        - Automated testing and monitoring are implemented in every stage of the SDLC, allowing bugs to be caught earlier.
+        - Tools such as SonarQube help maintain consistent standards across the code base.
+        - Continuous monitoring with tools like Prometheus or Grafana provides feedback loops for quick recovery from issues.
+
+    Reliability & Stability:
+
+        - Automated pipelines minimize the risk of human error.
+        - Using practices like Infrastructure as Code (IaC), environments remain reproducible and consistent.
+
+    Scalability & Flexibility:
+
+        - Using the cloud for scalability and including DevOps practices for containerization makes it easy to scale applications dynamically.
+        - Teams can adjust resources according to demand, saving costs and improving performance.
+
+    Cultural Shift Toward Collaboration:
+
+        - The DevOps culture encourages ownership, transparency, and continuous learning among developers, testers, security, and operations teams.
+        - Increased collaboration also reduces conflict and increases accountability.
+
+    Security Integration (DevSecOps):
+
+        - Security is embedded throughout the SDLC instead of being an afterthought.
+        - Automated security scans, compliance checks, and vulnerability testing ensure safer releases.
+
+    Business Value:
+
+        - Faster releases allow for quicker responses to user feedback and changes in the market.
+        - Leads to better customer satisfaction and trust due to improved reliability.
+        - Efficient workflows reduce costs and increase ROI on software projects.
+
+
+In summary, DevOps transforms the SDLC by making it faster, more reliable, collaborative, and customer-focused. It shifts software development from a slow, siloed process into a continuous cycle of integration, delivery, monitoring, and improvement.
