@@ -1,32 +1,5 @@
-Student ID: 101418340
-File: 101418340_gb.txt
-Title: George Brown College — What it is and why it matters to me
-Date: 2025-09-13
-
-Campuses:
-- St. James — business & hospitality
-- Casa Loma — technology & trades
-- Waterfront — health sciences
-
-George Brown College (GBC) is a public college in Toronto with three main
-campuses: St. James (business & hospitality), Casa Loma (technology & trades),
-and Waterfront (health sciences). Classes combine theory with labs, projects,
-and industry partners so students graduate with practical, job-ready skills.
-
-Why GBC works for me:
-- Location: being downtown connects me to Toronto’s tech community,
-  meetups, internships, and employers
-- Applied learning: courses emphasize hands-on work—labs, demos, group
-  assignments, and real tooling used in industry.
-- Support: tutoring, libraries, career services, and workshops make it easier
-  to stay on track and build a portfolio.
-- Diversity & teamwork: projects mirror real workplaces where collaboration
-  and communication are essential.
-
-Student services to explore:
-- Career Centre, library workshops, peer tutoring
-- Co-op/internship postings
-- Clubs and tech events
-
-In short, GBC gives me an environment to practice real skills with real tools,
-while being close to companies I want to work for after graduation.
+George Brown College is a public college of applied arts and technology located in Toronto, Ontario, Canada. 
+The college offers a wide range of diploma, degree, certificate, and continuing education programs. 
+It has three main campuses: St. James, Casa Loma, and Waterfront. 
+George Brown is known for its strong industry partnerships, hands-on learning opportunities, and emphasis on preparing students for the workforce. 
+The college also supports applied research projects and collaboration with local businesses and organizations.
