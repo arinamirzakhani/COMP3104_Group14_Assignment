@@ -41,4 +41,26 @@ Recommended Resources:
 
     - SonarQube – code quality and security analysis.
 
-👉 These resources support practical learning in source control, CI/CD, containerization, orchestration, and code quality monitoring.
+ These resources support practical learning in source control, CI/CD, containerization, orchestration, and code quality monitoring.
+
+ How to Succed in this Course:
+
+    Success depends on three main habits:
+
+        - Attend labs and lectures regularly.
+
+        - Complete lecture quizzes (10 total; best 8 count toward your grade).
+
+        - Follow weekly lab exercises (each lab builds foundational knowledge and connects to assignments).
+
+    Additional notes:
+
+        - Labs are essential “puzzle pieces” for completing assignments.
+
+        - Missed labs/lectures should be reported to the instructor (pritesh.patel2@georgebrown.ca) to avoid falling behind.
+
+        - Mid-term and final exams will be based on material covered in labs, lectures, and quizzes.
+
+        - Quiz performance helps monitor understanding; students can review results with the instructor for improvement
+
+In short: COMP 3104 teaches practical DevOps skills with real-world tools. Staying engaged with lectures, labs, and quizzes is the key to success.
