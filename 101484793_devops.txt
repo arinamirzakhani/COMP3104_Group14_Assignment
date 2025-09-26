@@ -1,4 +1,33 @@
-COMP3104 – DevOps is a course focused on teaching students the principles and practices of modern software development and deployment. 
-The course emphasizes version control systems such as Git and GitHub, collaboration through branching strategies, and continuous integration/continuous deployment (CI/CD) pipelines. 
-Students gain experience with automation, teamwork, and agile workflows. 
-The course also prepares students for real-world scenarios where DevOps practices are essential for efficiency, reliability, and collaboration in software projects.
+Student ID: 101484793
+Student Name: Vince
+File: 101484793_devops.txt
+Title: COMP3104 – DevOps (Course Summary)
+Date: 2025-09-26
+
+COMP3104 – DevOps introduces students to the modern practices and workflows that bridge the gap between software development and IT operations. 
+The course emphasizes version control with Git and GitHub, collaborative workflows through branching, and automation with continuous integration/continuous deployment (CI/CD). 
+It also highlights the importance of reproducible environments and infrastructure automation in today’s industry.
+
+Learning Outcomes:
+By completing this course, students will be able to:
+- Work with Git/GitHub for source control, branching, and collaborative project management.
+- Automate testing and deployments using CI/CD pipelines (GitHub Actions, Travis CI).
+- Build reproducible development environments using **Vagrant** to ensure consistency across teams.
+- Manage infrastructure using **Terraform**, defining systems as code that can be versioned and deployed reliably.
+- Understand the differences between monolithic and microservices-based architectures, and apply DevOps practices accordingly.
+- Monitor software quality and performance with automated checks and feedback loops.
+- Apply Infrastructure as Code (IaC) principles to scale projects in cloud environments.
+
+Key Tools and Resources:
+- GitHub – for source control, branching strategies, and collaboration.
+- Vagrant – to provision lightweight, repeatable development environments.
+- Terraform – to manage and automate infrastructure deployments across providers.
+- Docker – for containerization, ensuring consistent environments from dev to production.
+- Kubernetes – for orchestration and scaling of containerized applications.
+- SonarQube – to analyze code quality and detect vulnerabilities.
+
+Course Expectations:
+- Actively contribute to team projects and GitHub repositories, following the branch-per-developer strategy.
+- Commit frequently with meaningful messages, demonstrating incremental progress.
+- Complete lab activities that focus on automation, environment setup, and pipeline configuration.
+- Stay engaged with quizzes and assignments that reinforce both theoretical knowledge and practical skills.
