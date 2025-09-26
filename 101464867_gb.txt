@@ -8,68 +8,63 @@ Date: 2025-09-25
 George Brown College — Overview
 
 Type & Location:
-    - George Brown College is a public college of applied arts and technology located in Toronto, Ontario, Canada. 
 
+    - George Brown College is a public college of applied arts and technology located in Toronto, Ontario, Canada.
 
-History & Name: 
+History & Name:
 
-    - The college was established in 1967, absorbing predecessor institutes (such as the Provincial Institute of Trades) including campuses around Kensington and Casa Loma. 
-
-    - It is named after George Brown (the 19th-century politician and newspaper founder). 
+    - The college was established in 1967, absorbing predecessor institutes (such as the Provincial Institute of Trades), including campuses around Kensington and Casa Loma.
+    - It is named after George Brown, a 19th-century politician and newspaper founder.
 
 Enrollment & Programs:
 
-    - It offers over 170 full-time programs across fields such as arts & design, business, health sciences, hospitality & culinary arts, construction & engineering, and information technology. 
-
-    - There is also a robust continuing education arm, online programs, and joint degree partnerships with universities. 
-
-    -Its programs emphasize applied learning, work-integrated learning, and real-world projects, leveraging its downtown Toronto location and industry connections. 
+    - Offers over 170 full-time programs across fields such as arts & design, business, health sciences, hospitality & culinary arts, construction & engineering, and information technology.
+    - Includes a robust continuing education arm, online programs, and joint degree partnerships with universities.
+    - Its programs emphasize applied learning, work-integrated learning, and real-world projects, leveraging its downtown Toronto location and industry connections.
 
 Campuses:
 
     George Brown’s main campuses are all located in downtown Toronto and include:
 
-        - Casa Loma Campus 
-        - St. James Campus 
-        - Waterfront Campus 
+        - Casa Loma Campus
+        - St. James Campus
+        - Waterfront Campus
 
-    - The campuses are well served by public transit and bike lanes.
+    The campuses are well served by public transit and bike lanes.
 
 Casa Loma Campus (George Brown):
-    
-    - Casa Loma campus is one of the original and core campuses, with facilities geared toward construction, engineering technologies, and other technical disciplines.
 
-    - Casa Loma hosts many of the engineering and construction-oriented programs, trades, and technical technologies. Its lab facilities, workshops, and specialized infrastructure make it well-suited for hands-on, applied courses. (This aligns with George Brown’s overall emphasis on applied, practical learning.)
-
-    - Students in programs that require heavy lab / workshop use often attend classes at Casa Loma.
+    - Casa Loma Campus is one of the original and core campuses, with facilities geared toward construction, engineering technologies, and other technical disciplines.
+    - Casa Loma hosts many of the engineering and construction-oriented programs, trades, and technical technologies. Its lab facilities, workshops, and specialized infrastructure make it well-suited for hands-on, applied courses.
+    - Students in programs that require heavy lab/workshop use often attend classes at Casa Loma.
 
 T197 — Computer Programming & Analysis (Online):
 
     - The Computer Programming and Analysis (Online) three-year advanced diploma program offers comprehensive programming and IT analysis training. As a graduate of this program, you’ll have a solid foundation to advance your career in the dynamic and constantly evolving world of IT.
 
-    This program is fully online, including lectures, exams and class projects. This allows you to:
+    This program is fully online, including lectures, exams, and class projects. This allows you to:
 
-       - Study online from the comfort of home while joining other students across Canada in live, instructor-led classes.
-       - Access the knowledge and expertise of faculty members embedded in Toronto’s rapidly growing tech industry.
-       - Develop professional skills in a format convenient to you and your busy weekday commitments.
-    
+        - Study online from the comfort of home while joining other students across Canada in live, instructor-led classes.
+        - Access the knowledge and expertise of faculty members embedded in Toronto’s rapidly growing tech industry.
+        - Develop professional skills in a format convenient to you and your busy weekday commitments.
+
     In this program, you'll learn about:
 
-        - project-based and experiential learning
-        - understanding fast-growing AI and machine-learning strategies and development
-        - mobile application development using the latest mobile devices
-        - full-stack development
-        - software development life cycle and methodologies
-        - database management
+        - Project-based and experiential learning
+        - Fast-growing AI and machine learning strategies and development
+        - Mobile application development using the latest devices
+        - Full-stack development
+        - Software development life cycle and methodologies
+        - Database management
 
     Graduates may find career opportunities in areas such as:
 
-        - database administration
-        - systems analysis and design
-        - consulting
-        - application design and development
-        - web application design and development
-        - data architect (AI/Machine Learning)
-        - full-stack developer
-        - mobile application developer
-        - and many others
+        - Database administration
+        - Systems analysis and design
+        - Consulting
+        - Application design and development
+        - Web application design and development
+        - Data architecture (AI/Machine Learning)
+        - Full-stack development
+        - Mobile application development
+        - And many others
