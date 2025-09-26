@@ -1,0 +1,4 @@
+COMP3104 – DevOps is a course focused on teaching students the principles and practices of modern software development and deployment. 
+The course emphasizes version control systems such as Git and GitHub, collaboration through branching strategies, and continuous integration/continuous deployment (CI/CD) pipelines. 
+Students gain experience with automation, teamwork, and agile workflows. 
+The course also prepares students for real-world scenarios where DevOps practices are essential for efficiency, reliability, and collaboration in software projects.
