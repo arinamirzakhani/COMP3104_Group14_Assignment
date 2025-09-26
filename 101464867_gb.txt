@@ -43,4 +43,33 @@ Casa Loma Campus (George Brown):
 
     - Students in programs that require heavy lab / workshop use often attend classes at Casa Loma.
 
+T197 — Computer Programming & Analysis (Online):
+
+    - The Computer Programming and Analysis (Online) three-year advanced diploma program offers comprehensive programming and IT analysis training. As a graduate of this program, you’ll have a solid foundation to advance your career in the dynamic and constantly evolving world of IT.
+
+    This program is fully online, including lectures, exams and class projects. This allows you to:
+
+       - Study online from the comfort of home while joining other students across Canada in live, instructor-led classes.
+       - Access the knowledge and expertise of faculty members embedded in Toronto’s rapidly growing tech industry.
+       - Develop professional skills in a format convenient to you and your busy weekday commitments.
     
+    In this program, you'll learn about:
+
+        - project-based and experiential learning
+        - understanding fast-growing AI and machine-learning strategies and development
+        - mobile application development using the latest mobile devices
+        - full-stack development
+        - software development life cycle and methodologies
+        - database management
+
+    Graduates may find career opportunities in areas such as:
+
+        - database administration
+        - systems analysis and design
+        - consulting
+        - application design and development
+        - web application design and development
+        - data architect (AI/Machine Learning)
+        - full-stack developer
+        - mobile application developer
+        - and many others
