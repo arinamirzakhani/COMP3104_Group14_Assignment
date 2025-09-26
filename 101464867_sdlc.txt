@@ -1,0 +1,45 @@
+Student ID: 101464867
+Student Name: Lakshay Dhawan
+File: 101464867_sdlc.txt
+Title: COMP3104 – DevOps' impact on the SDLC
+Date: 2025-09-25
+
+DevOps has an enormous impact on the Software Development Lifecycle (SDLC), it integrates devlopment and operations to accelerate the delivery of high-quality software.
+
+The following are ways how DevOps accelerates and impact SDLC and shows the importance of DevOps to the SDLC:
+
+    - Bridging Development and Operations:
+        
+        - Normally software developers would write the code while a different team dealt with operations and infrastructure, this separation lead to roadblocks and bottlenecks, due to the interdepenedency of each to the other.
+        
+        - DevOps intergrates both roles so DevOps engineers share the responsibility, which allows for faster collaboration and fewer miscommunication.
+
+    - Faster Delivery & Time-to-Market:
+
+        - DevOps engineers user practices such as Continous Intergration (CI) and Continous Deployment (CD) to automate, build test and release software.
+
+        - This allows them to ship new features, bug fixes and updates much faster. As well as meeting the customer and market needs much more quickly.
+
+    - Improved Software Quality:
+        
+        - Automated testing and montioring is implemented in every stage of the SDLC which allows us to catch bugs earlier.
+
+        - Using tools such as SonarQube also allows use to maintain consisten standards across the code base.
+
+        - Continous monitoring with tools like Prometheus or Grafana provide us feedback loops for quick recovery from issues.
+
+
+    - Reliability & Stability:
+        
+        - With automated pipelines we minimize the risk of human errors
+
+        - Using practices like Infrasturcture as Code (IaC) we ensure that envirmoents are reproducible and consistent
+
+    - Scalability & Flexibility:
+
+        - Using the cloud for scalability and including DevOps practices for contarization it makes it easy to scale application dynamically.
+
+        - Teams can adjust recouse according to demand which saves on cost and helps with performance 
+
+
+In summary, DevOps transforms the SDLC by making it faster, more reliable, collaborative, and customer-focused. It shifts software development from a slow, siloed process into a continuous cycle of integration, delivery, monitoring, and improvement.
