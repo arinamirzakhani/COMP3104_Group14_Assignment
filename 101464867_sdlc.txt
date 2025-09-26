@@ -41,5 +41,25 @@ The following are ways how DevOps accelerates and impact SDLC and shows the impo
 
         - Teams can adjust recouse according to demand which saves on cost and helps with performance 
 
+    - Cultural Shift Toward Collaboration:
+        
+        - Due to the culture around DevOps it encourages more ownership, transparancy, and continous learning between developers, testers, security, and operations teams.
+
+        - The increased collaboration also reduces conflict and increases accountability 
+
+    - Security Integration (DevSecOps): 
+
+        - Security is embedded throughout the SDLC instead of being an afterthought.
+
+        - Automated security scans, compliance checks, and vulnerability testing ensure safer releases.
+
+    - Business Value:
+
+        - Faster releases allow for more quicker reponse to user feeback and changes in the market 
+
+        - Leads to better overall customer satisfaction and trust due to the improved reliability
+
+        - Efficient workflows brought in by DevOps reduce cost and increase the ROI on software projects
+
 
 In summary, DevOps transforms the SDLC by making it faster, more reliable, collaborative, and customer-focused. It shifts software development from a slow, siloed process into a continuous cycle of integration, delivery, monitoring, and improvement.
