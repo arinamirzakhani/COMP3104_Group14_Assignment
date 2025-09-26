@@ -1,0 +1,34 @@
+Student ID: 101469384
+File: 101469384_devops.txt
+Title: COMP 3104 – DevOps: Course Overview and Key Learnings
+Date: 2025-09-26
+
+Introduction:
+DevOps is both a culture and a set of practices that bring software development and IT operations together.
+The COMP3104 course teaches us how to work collaboratively, automate processes, and use tools that help deliver software faster and more reliably.
+
+Learning Outcomes:
+By the end of this course, I want to:
+- Apply DevOps practices and tools for integration, deployment, and lifecycle management.
+- Perform hands-on lab work in Git, GitHub, and automation.
+- Collaborate with classmates using branching, commits, and pull requests.
+- Use CI/CD workflows (GitHub Actions) to test and validate code automatically.
+- Understand the importance of monitoring, version control, and automation in real projects.
+- Connect DevOps practices to the broader job market and professional roles.
+
+Key Tools and Concepts:
+- GitHub → version control and collaboration.
+- GitHub Actions → continuous integration workflows.
+- Docker → containerization for consistent environments.
+- Kubernetes → container orchestration and scaling.
+- SonarQube → code quality and security analysis.
+
+How this course prepares me:
+- Teaches me how to manage group projects using branches and PRs.
+- Helps me learn automation so I can spend less time on manual tasks.
+- Builds the habit of frequent, small commits for better collaboration.
+- Shows me how CI/CD prevents bugs and reduces risk in software delivery.
+
+Conclusion:
+COMP3104 is not only about learning commands or tools, but about adopting a mindset of collaboration, automation, and continuous improvement.
+These skills are directly useful for my future in the IT field, where DevOps practices are a standard.

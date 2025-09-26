@@ -1,0 +1,40 @@
+Student ID: 101469384
+File: 101469384_sdlc.txt
+Title: Why DevOps is important in the Software Development Life Cycle (SDLC)
+Date: 2025-09-26
+
+Introduction:
+The Software Development Life Cycle (SDLC) is a process that guides how software is planned, built, tested, and delivered.
+DevOps improves the SDLC by integrating development and operations, which reduces delays and makes software delivery faster, more reliable, and more secure.
+
+How DevOps impacts the SDLC:
+1. Planning:
+- DevOps encourages small, measurable goals.
+- Teams plan automation and CI/CD pipelines early to avoid bottlenecks.
+
+2. Development:
+- Developers work in branches, commit often, and collaborate through pull requests.
+- Code reviews and automation reduce human errors.
+
+3. Testing:
+- Continuous Integration (CI) runs tests automatically for every push.
+- Issues are detected early, improving quality and reducing costs.
+
+4. Deployment:
+- Continuous Delivery (CD) automates releases with consistent builds.
+- Frequent deployments make it easier to rollback if needed.
+
+5. Operations & Monitoring:
+- Automated monitoring, logging, and feedback loops provide real-time insights.
+- Teams use these insights to improve the next cycle.
+
+Benefits of DevOps in SDLC:
+- Faster delivery of new features and bug fixes.
+- Reliable and repeatable releases with less risk.
+- Better collaboration and communication between teams.
+- Improved quality assurance with automated testing and code analysis.
+- Cultural shift toward accountability and continuous learning.
+
+Conclusion:
+DevOps transforms the SDLC into a continuous cycle of planning, coding, testing, deploying, and learning.
+This ensures that software is delivered faster, safer, and with higher quality — which is exactly what modern companies expect.
