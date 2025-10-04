@@ -1,4 +1,5 @@
 Student ID: 101469384
+Name: Sofiia Beliak
 File: 101469384_sdlc.txt
 Title: Why DevOps is important in the Software Development Life Cycle (SDLC)
 Date: 2025-09-26
@@ -35,6 +36,15 @@ Benefits of DevOps in SDLC:
 - Improved quality assurance with automated testing and code analysis.
 - Cultural shift toward accountability and continuous learning.
 
+Example flow:
+1) Push to feature branch → CI runs tests.
+2) Open PR → code review + checks must pass.
+3) Merge to main → CI builds a production artifact.
+4) Optional: CD promotes to staging → manual approval → production.
+
 Conclusion:
-DevOps transforms the SDLC into a continuous cycle of planning, coding, testing, deploying, and learning.
-This ensures that software is delivered faster, safer, and with higher quality — which is exactly what modern companies expect.
+DevOps strengthens the SDLC by closing the loop between development and operations.
+It encourages faster delivery, fewer errors, and continuous feedback, which improves
+both software quality and the learning experience for students like me.
+
+
