@@ -42,5 +42,7 @@ Example flow:
 4) Optional: CD promotes to staging → manual approval → production.
 
 Conclusion:
-DevOps transforms the SDLC into a continuous cycle of planning, coding, testing, deploying, and learning.
-This ensures that software is delivered faster, safer, and with higher quality — which is exactly what modern companies expect.
+DevOps strengthens the SDLC by closing the loop between development and operations.
+It encourages faster delivery, fewer errors, and continuous feedback, which improves
+both software quality and the learning experience for students like me.
+
