@@ -35,6 +35,12 @@ Benefits of DevOps in SDLC:
 - Improved quality assurance with automated testing and code analysis.
 - Cultural shift toward accountability and continuous learning.
 
+Example flow:
+1) Push to feature branch → CI runs tests.
+2) Open PR → code review + checks must pass.
+3) Merge to main → CI builds a production artifact.
+4) Optional: CD promotes to staging → manual approval → production.
+
 Conclusion:
 DevOps transforms the SDLC into a continuous cycle of planning, coding, testing, deploying, and learning.
 This ensures that software is delivered faster, safer, and with higher quality — which is exactly what modern companies expect.
