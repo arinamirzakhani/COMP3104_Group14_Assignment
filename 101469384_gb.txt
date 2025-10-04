@@ -11,8 +11,8 @@ George Brown College (GBC) is a public college in Toronto with three main campus
 Each campus specializes in certain areas, but all share the same goal: combining theory with hands-on practice and strong connections to industry.
 
 Why George Brown is important to me:
-- Location: Being in the heart of Toronto means access to the tech community, networking events, and employers. It also makes it easier to find internships and co-ops.
-- Applied Learning: Courses include labs, projects, and group assignments that mirror real workplace scenarios. This helps me gain job-ready skills before graduation.
+- Location: Being in the heart of Toronto means access to the tech community, networking events, and employers.
+- Applied Learning: Courses include labs, projects, and group assignments that mirror real workplace scenarios.
 - Support Systems: Tutoring, libraries, career services, and workshops are available to help students manage challenges and stay on track.
 - Diversity & Collaboration: Working in diverse teams allows me to practice communication and teamwork, skills that are crucial in the IT industry.
 - Real-World Connections: GBC partners with local employers and organizations, so students are better prepared for the job market.
