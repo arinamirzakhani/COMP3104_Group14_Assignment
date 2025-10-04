@@ -17,11 +17,11 @@ By the end of this course, I want to:
 - Connect DevOps practices to the broader job market and professional roles.
 
 Key Tools and Concepts:
-- GitHub → version control and collaboration.
-- GitHub Actions → continuous integration workflows.
-- Docker → containerization for consistent environments.
-- Kubernetes → container orchestration and scaling.
-- SonarQube → code quality and security analysis.
+- GitHub → version control and collaboration
+- GitHub Actions → continuous integration workflows
+- Docker → containerization for consistent environments
+- Kubernetes → container orchestration and scaling
+- SonarQube → code quality and security analysis
 
 Tiny CI example (GitHub Actions idea):
 - Trigger: on every push
