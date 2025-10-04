@@ -22,6 +22,11 @@ Student Services I plan to use:
 - Tutoring & Learning Centres: academic support for programming and technical courses.
 - Student Clubs & Hackathons: opportunities to apply what I learn in class and build my portfolio.
 
+My goals this term:
+1) Keep all course projects on GitHub with clear commit history.
+2) Use CI on at least one project.
+3) Attend one tech event or workshop to expand my network.
+
 Conclusion:
 For me, GBC is not just about classes — it’s about preparing for the real world.
 My goals include improving my programming and DevOps skills, building a portfolio of projects on GitHub, and connecting with industry professionals to start my career with confidence.
