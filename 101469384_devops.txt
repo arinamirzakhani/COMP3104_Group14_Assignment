@@ -23,6 +23,11 @@ Key Tools and Concepts:
 - Kubernetes → container orchestration and scaling.
 - SonarQube → code quality and security analysis.
 
+Tiny CI example (GitHub Actions idea):
+- Trigger: on every push
+- Steps: checkout → run tests → show results
+Outcome: early feedback, fewer surprises during merges.
+
 How this course prepares me:
 - Teaches me how to manage group projects using branches and PRs.
 - Helps me learn automation so I can spend less time on manual tasks.
