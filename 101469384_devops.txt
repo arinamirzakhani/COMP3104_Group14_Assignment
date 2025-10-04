@@ -29,6 +29,11 @@ How this course prepares me:
 - Builds the habit of frequent, small commits for better collaboration.
 - Shows me how CI/CD prevents bugs and reduces risk in software delivery.
 
+Career relevance:
+- Most junior roles expect Git + GitHub basics, branching, and PRs.
+- CI/CD shows reliability: employers like automated tests on every push.
+- Knowing Docker/Kubernetes helps with cloud deployments and team handoffs.
+
 Conclusion:
 COMP3104 is not only about learning commands or tools, but about adopting a mindset of collaboration, automation, and continuous improvement.
 These skills are directly useful for my future in the IT field, where DevOps practices are a standard.
