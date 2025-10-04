@@ -40,5 +40,5 @@ Career relevance:
 - Knowing Docker/Kubernetes helps with cloud deployments and team handoffs.
 
 Conclusion:
-COMP3104 is not only about learning commands or tools, but about adopting a mindset of collaboration, automation, and continuous improvement.
+COMP3104 is not only about learning commands or tools, but about adopting a mindset of collaboration, automation, and continuous improvement
 These skills are directly useful for my future in the IT field, where DevOps practices are a standard.
