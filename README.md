@@ -12,7 +12,7 @@
 
 \- Member 4: <Sofiia Beliak> (<101469384>) – \[GitHub](https://github.com/101469384)
 
-\- Member : Melica Alikhani-Marqueti (101360798) – \[GitHub](https://github.com/MelicaAlikhani)
+\- Member 5: Melica Alikhani-Marqueti (101360798) – \[GitHub](https://github.com/MelicaAlikhani))
 
 
 
