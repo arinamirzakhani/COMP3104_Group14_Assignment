@@ -2,3 +2,9 @@
 
 DevOps is a set of practices that combines development and operations.
 It focuses on collaboration, automation, and continuous improvement.
+## Tools We Learned
+In COMP3104, I worked with:
+- Git (for version control)
+- GitHub (for hosting code and collaborating)
+- GitHub Actions (for continuous integration)
+- Docker (for containerization)
