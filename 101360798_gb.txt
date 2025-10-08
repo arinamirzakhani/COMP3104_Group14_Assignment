@@ -1,0 +1,39 @@
+Student ID: 101360798
+File: 101360798_devops.txt
+Title: COMP3104 – Student View
+Date: 2025-10-06
+
+Why I Chose GBC :
+Downtown location + hands-on courses were the main reasons. It’s easy to commute even though in the end i chose online, and most classes focus on labs/projects instead of only exams
+which could be a major factor in the final decision to chose GBC.
+
+# My Experience at George Brown College
+
+I chose George Brown College because of its strong computer programming program
+and the fact that the campus is close to downtown Toronto.
+
+
+## Campuses & Tools I Use
+- **Campuses**: St. James (most of my classes), Casa Loma (tech), Waterfront (great study spaces).
+- **D2L Brightspace**: announcements, grades, due dates.
+- **MyGB**: registration and official docs.
+- **Git & GitHub**: almost every programming subject uses these now.
+
+## Student Services that Helped Me
+- Tutoring/Learning Centres for tricky courses
+- Library resources (software access + quiet rooms)
+- Career Centre for resume/cover-letter advice
+
+### Reflection
+The mix of labs and quick feedback fits how I learn. Group projects feel closer to real teamwork.
+## Campuses
+George Brown has three main campuses: St. James, Casa Loma, and Waterfront.
+Most of my programming courses are at Casa Loma, but I have visited the others
+for general courses and events.
+## Online Tools
+As a student, I use D2L Brightspace to access course materials, submit assignments,
+and check grades. I also use MyGB for registration and academic records.
+## Reflection
+One thing I like about George Brown is how the labs and group projects fit my
+learning style. Working with other students has helped me understand material
+more than just reading or lectures alone.

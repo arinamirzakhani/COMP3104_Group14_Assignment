@@ -1,0 +1,22 @@
+# The Software Development Life Cycle (SDLC)
+
+The SDLC is a structured process for building software. It usually includes
+requirements, design, implementation, testing, deployment, and maintenance.
+## Where DevOps Fits
+DevOps practices support each stage of the SDLC:
+- Requirements: use collaboration tools like GitHub Issues
+- Design: communicate clearly with team members
+- Implementation: code on feature branches and commit regularly
+- Testing: use GitHub Actions to run tests
+- Deployment: use CI/CD pipelines
+- Maintenance: monitor logs and update software continuously
+## Personal Example
+In this COMP3104 project, I used DevOps ideas directly:
+- I created a branch named after my student ID
+- I made multiple small commits instead of one big one
+- GitHub Actions checked my commits automatically
+- I plan to merge my branch into the group main through a pull request
+
+## Conclusion
+DevOps makes the SDLC faster and more reliable. It is not a separate step,
+but a way of working that improves every stage.
