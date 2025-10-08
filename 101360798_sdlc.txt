@@ -1,22 +1,4 @@
-Student ID: 101360798
-File: 101360798_devops.txt
-Title: COMP3104 – DevOps in the SDLC — Why It Matters
-Date: 2025-10-06
+# The Software Development Life Cycle (SDLC)
 
-SDLC in one line :
-Plan → Design → Implement → Test → Deploy → Maintain.
-
-The point: reduce risk by moving in steps and checking quality at each stage.
-
-## Where DevOps plugs into each stage
-- **Plan/Design**: small tickets; acceptance criteria clear
-- **Implement**: feature branches; frequent commits; code reviews
-- **Test**: CI runs tests/lints on every push/PR
-- **Deploy**: CD can auto-promote a green build
-- **Maintain**: logs/metrics show issues so we fix quickly
-
-## My Example from this Project
-Branch: `101360798-MelicaAlikhaniMarqueti`. I committed in small steps, opened a PR, and waited for CI to go green before merging.
-
-### Wrap-up
-Learning DevOps in the SDLC trained me to ship small, tested changes. That rhythm is what real teams expect.
+The SDLC is a structured process for building software. It usually includes
+requirements, design, implementation, testing, deployment, and maintenance.
