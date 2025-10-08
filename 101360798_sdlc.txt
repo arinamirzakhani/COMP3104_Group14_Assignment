@@ -2,3 +2,11 @@
 
 The SDLC is a structured process for building software. It usually includes
 requirements, design, implementation, testing, deployment, and maintenance.
+## Where DevOps Fits
+DevOps practices support each stage of the SDLC:
+- Requirements: use collaboration tools like GitHub Issues
+- Design: communicate clearly with team members
+- Implementation: code on feature branches and commit regularly
+- Testing: use GitHub Actions to run tests
+- Deployment: use CI/CD pipelines
+- Maintenance: monitor logs and update software continuously
