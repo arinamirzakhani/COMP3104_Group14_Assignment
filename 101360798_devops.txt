@@ -1,21 +1,4 @@
-Student ID: 101360798
-File: 101360798_devops.txt
-Title: COMP3104 – DevOps (Course Summary)
-Date: 2025-10-06
+# What is DevOps?
 
-What DevOps Means (student version) :
-DevOps = dev + ops working together, with automation, so changes ship faster and safer. The key idea is *small changes + constant feedback*.
-
-## Tools We Used/Discussed
-- **Git & GitHub** for version control and Pull Requests
-- **GitHub Actions** for CI (runs on every push/PR)
-- **Docker** concept for consistent environments (even if basic)
-
-## How CI/CD fits our class
-1 Commit to my branch → 2 GitHub Actions runs checks → 3 Open PR → 4 If green, merge to `main`.
-[code change] -> [push] -> [CI runs] -> [PR review] -> [merge main]
-
-## Why it helps 
-- Catch mistakes early
-- Makes history clean
-- Teaches real team habits
+DevOps is a set of practices that combines development and operations.
+It focuses on collaboration, automation, and continuous improvement.
