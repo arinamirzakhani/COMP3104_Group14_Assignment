@@ -26,3 +26,7 @@ and the fact that the campus is close to downtown Toronto.
 
 ### Reflection
 The mix of labs and quick feedback fits how I learn. Group projects feel closer to real teamwork.
+## Campuses
+George Brown has three main campuses: St. James, Casa Loma, and Waterfront.
+Most of my programming courses are at Casa Loma, but I have visited the others
+for general courses and events.
