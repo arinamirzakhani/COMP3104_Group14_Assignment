@@ -30,3 +30,6 @@ The mix of labs and quick feedback fits how I learn. Group projects feel closer 
 George Brown has three main campuses: St. James, Casa Loma, and Waterfront.
 Most of my programming courses are at Casa Loma, but I have visited the others
 for general courses and events.
+## Online Tools
+As a student, I use D2L Brightspace to access course materials, submit assignments,
+and check grades. I also use MyGB for registration and academic records.
