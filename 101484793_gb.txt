@@ -1,0 +1,23 @@
+Student ID: 101484793
+Student Name: Vince
+File: 101484793_gb.txt
+Title: George Brown College
+Date: 2025-09-26
+
+George Brown College (GBC) is a public college of applied arts and technology in Toronto, Ontario, Canada. 
+It offers more than 170 full-time programs in areas such as technology, business, health sciences, and design. 
+GBC emphasizes applied learning through labs, industry partnerships, and real-world projects that prepare students for the workforce.
+
+The college has three main campuses:
+- St. James Campus (business, hospitality, community services, and early childhood education)
+- Casa Loma Campus (technology, construction, and engineering programs)
+- Waterfront Campus (health sciences)
+
+George Brown is known for integrating technology into its teaching. 
+In technology programs, students gain hands-on experience not only with programming and version control systems but also with modern DevOps tools. 
+For example, labs may introduce virtualization platforms such as **Vagrant** to simulate production-like environments for students, and **Terraform** to showcase Infrastructure as Code (IaC) in cloud computing contexts.
+
+Partnerships with companies across Toronto’s tech sector help ensure that students learn tools and workflows that are relevant to the job market. 
+This focus on applied skills gives graduates a competitive edge, particularly in fields like software development, IT operations, and DevOps engineering.
+
+In summary, George Brown College blends academic instruction with industry-relevant, hands-on training, making it an ideal environment for students to prepare for careers in modern, technology-driven fields.
