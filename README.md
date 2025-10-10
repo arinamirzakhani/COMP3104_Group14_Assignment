@@ -10,7 +10,7 @@
 
 \- Member 3: Lakshay Dhawan (101464867) – \[GitHub](https://github.com/imlakshayd)
 
-\- Member 4: <Sofiia Beliak> (<101469384>) – \[GitHub](https://github.com/101469384)
+\- Member 4: Sofiia Beliak (101469384) – \[GitHub](https://github.com/101469384)
 
 \- Member 5: Melica Alikhani-Marqueti (101360798) – \[GitHub](https://github.com/MelicaAlikhani))
 
