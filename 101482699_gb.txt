@@ -1,18 +1,27 @@
-Student ID: 101482699
-Student Name: Shalev Haimovitz
-File: 101482699_gb.txt
-Title: Info About George Brown Collage
+Student ID: 101482699  
+Student Name: Shalev Haimovitz  
+File: 101482699_gb.txt  
 Date: 2025-10-12
 
-Located in Toronto, Ontario, Canada, George Brown College is a public applied arts and technology college. 
-It was founded in 1967 and is named after George Brown, a Scottish-born Canadian politician and newspaper 
-editor from the 19th century.
+## Overview
 
-The college provides more than 170 full-time programs in a variety of fields, including business, 
-hospitality, health sciences, arts and design, technology, and community services. George Brown offers 
-students real-world, experiential learning opportunities in one of Canada's most vibrant and diverse cities. 
+Located in Toronto, Ontario, Canada, George Brown College is a public applied arts and technology college. It was founded in 1967 and is named after George Brown, a Scottish-born Canadian politician and newspaper editor from the 19th century.
 
-Its three main campuses in downtown Toronto are:
-- St. James
-- Casa Loma
-- Waterfront
+## Programs and Learning
+
+The college provides more than 170 full-time programs in a variety of fields, including:
+- Business
+- Hospitality
+- Health Sciences
+- Arts and Design
+- Technology
+- Community Services
+
+George Brown offers students real-world, experiential learning opportunities in one of Canada's most vibrant and diverse cities.
+
+## Campuses
+
+The college has three main campuses in downtown Toronto:
+- **St. James Campus**
+- **Casa Loma Campus**
+- **Waterfront Campus**
