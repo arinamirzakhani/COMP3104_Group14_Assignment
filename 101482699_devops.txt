@@ -16,10 +16,17 @@ COMP 3104 is a course in the Computer Programming and Analysis program at George
 - Resolving merge conflicts and protecting the main branch
 - Creating documentation like README files and pull request templates
 
+## Tools & Concepts Practiced
+
+- Git & GitHub: Issues, Pull Requests, branch management
+- Continuous Integration: run tests on every push/PR
+- Continuous Delivery: keep main deploy-ready
+- Automation: scripting and status badges
+
 ## Course Structure
 
 The course is hands-on with weekly labs, lectures, and quizzes. Labs build on each other and help prepare us for assignments like this group project. There are typically 10 quizzes throughout the semester, with the best 8 counting toward the final grade. The course also includes a mid-term and final exam.
 
-## Why It Matters
+## Why This Matters
 
 DevOps practices help teams work together more smoothly and catch problems early through automated testing. Learning Git and CI/CD workflows prepares us for real jobs since most tech companies expect these skills from junior developers. The focus is on collaboration, automation, and delivering software reliably.
