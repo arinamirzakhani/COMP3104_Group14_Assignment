@@ -22,6 +22,6 @@ George Brown offers students real-world, experiential learning opportunities in 
 ## Campuses
 
 The college has three main campuses in downtown Toronto:
-- **St. James Campus**
-- **Casa Loma Campus**
-- **Waterfront Campus**
+- St. James Campus
+- Casa Loma Campus
+- Waterfront Campus
