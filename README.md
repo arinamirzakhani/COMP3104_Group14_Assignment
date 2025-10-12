@@ -6,6 +6,7 @@
 - Member 3: Lakshay Dhawan (101464867) – [GitHub](https://github.com/imlakshayd)
 - Member 4: Sofiia Beliak (101469384) – [GitHub](https://github.com/101469384)
 - Member 5: Melica Alikhani-Marqueti (101360798) – [GitHub](https://github.com/MelicaAlikhani)
+- Member 6: Shalev Haimovitz (101482699) – [GitHub](https://github.com/da-shalev)
 
 ## Project Description
 Collaborative Git workflows, branching strategy, and CI with GitHub Actions.
