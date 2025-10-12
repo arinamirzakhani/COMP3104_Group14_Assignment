@@ -1,0 +1,25 @@
+Student ID: 101482699
+Student Name: Shalev Haimovitz
+File: 101482699_devops.txt
+Title: COMP3104 – DevOps (Course Summary)
+Date: 2025-10-12
+
+COMP 3104 - DevOps
+COMP 3104 is a course in the Computer Programming and Analysis program at George Brown College that focuses on bridging the gap between software development and IT operations. The course teaches practical skills for working in teams and deploying software more efficiently.
+
+What We Cover:
+- Version control using Git and GitHub (repositories, branching, merging, pull requests)
+- Collaborative workflows and team-based development practices
+- Continuous Integration (CI) basics using GitHub Actions
+- Writing clear commit messages and following proper branching strategies
+- Resolving merge conflicts and protecting the main branch
+- Creating documentation like README files and pull request templates
+
+Course Structure:
+The course is hands-on with weekly labs, lectures, and quizzes. Labs build on each 
+other and help prepare us for assignments like this group project. There are typically 10 
+quizzes throughout the semester, with the best 8 counting toward the final grade. The course also 
+includes a mid-term and final exam.
+
+Why It Matters:
+DevOps practices help teams work together more smoothly and catch problems early through automated testing. Learning Git and CI/CD workflows prepares us for real jobs since most tech companies expect these skills from junior developers. The focus is on collaboration, automation, and delivering software reliably.
