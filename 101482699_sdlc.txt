@@ -1,0 +1,22 @@
+Student ID: 101482699  
+Student Name: Shalev Haimovitz  
+File: 101482699_sdlc.txt  
+Date: 2025-10-12
+
+## Introduction
+
+The Software Development Life Cycle (SDLC) is the process used to plan, build, test, and deploy software. DevOps improves this process by bringing development and operations together, making it faster and more reliable.
+
+## DevOps in Each SDLC Phase
+
+In COMP 3104, we're learning how DevOps practices apply to each phase:
+
+- **Planning:** Teams use tools like GitHub Issues to track tasks and set clear goals
+- **Development:** Developers work on separate branches and make frequent, small commits with clear messages
+- **Testing:** GitHub Actions automatically runs tests on every push, catching bugs early
+- **Deployment:** CI/CD pipelines automate the release process, reducing errors
+- **Maintenance:** Teams monitor the software and make updates based on feedback
+
+## Real Example from the Course
+
+In our group assignment, we're using DevOps practices directly. Each member works on their own branch, makes at least 10 commits, and uses GitHub Actions for CI. We review each other's code through pull requests before merging to main. This workflow simulates what happens in real software teams.
