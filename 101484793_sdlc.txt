@@ -1,0 +1,24 @@
+Student ID: 101484793
+Student Name: Vince
+File: 101484793_sdlc.txt
+Title: DevOps in the Software Development Life Cycle
+Date: 2025-09-26
+
+The Software Development Life Cycle (SDLC) is a structured process for planning, building, testing, and deploying software. 
+Traditionally, development and operations were treated as separate phases, which often led to delays and miscommunication. 
+DevOps changes this by integrating both sides into a continuous, collaborative workflow.
+
+Importance of DevOps in the SDLC:
+- Speeds up delivery through automation and continuous integration/continuous deployment (CI/CD).
+- Improves software quality with automated testing and monitoring.
+- Enhances collaboration between developers, testers, and operations teams.
+- Reduces risks by enabling small, incremental releases instead of large, disruptive deployments.
+- Encourages Infrastructure as Code (IaC) to make environments consistent and reproducible.
+
+Tools like **Vagrant** and **Terraform** directly support DevOps in the SDLC:
+- **Vagrant** allows developers to create and share reproducible development environments, ensuring code behaves the same on every machine. This reduces the classic “works on my machine” problem.
+- **Terraform** lets teams define infrastructure as code, so the same configuration can be applied to testing, staging, and production environments. This reduces human error and speeds up deployment.
+
+Together, these tools help align infrastructure management with software development practices, making the SDLC more agile, reliable, and scalable. 
+
+In conclusion, DevOps practices transform the SDLC from a linear sequence into a continuous feedback loop. By leveraging automation and tools like Vagrant and Terraform, teams can deliver high-quality software faster while maintaining stability and scalability.
